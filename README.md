@@ -1,3 +1,5 @@
+
+
 ### **Eaii! Eu sou o _Guilherme Braga_, bem-vindo!!**
 #
 
@@ -21,15 +23,13 @@
 
 # 📊 Status GitHub
 
-<p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiibrag4&theme=radical&count_private=true" />
+<p>
+  <img width="98.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiibrag4&theme=radical&count_private=true" />
 </p>
 
-<p>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiibrag4&theme=radical&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiibrag4&theme=radical)
-
+<p align = "">
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiibrag4&theme=radical&count_private=true" />
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiibrag4&theme=radical" />
 </p>
 
 <br/><br/>
@@ -41,6 +41,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guiibrag4/guiibrag4/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guiibrag4/guiibrag4/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
 <div>
   <a href = "mailto:guilhermebragariosdacosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
