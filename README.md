@@ -1,7 +1,7 @@
 
 
-### **Eaii! Eu sou o _Guilherme Braga_, bem-vindo!!**
-#
+## **Eaii! Eu sou o _Guilherme Braga_, bem-vindo!!**
+
 
 - 🚶‍♂️ Graduando Sistemas de informação
 - 🧑‍💻 Estudando Programação Web
@@ -21,7 +21,7 @@
 
 ##
 
-# 📊 Status GitHub
+# 📈 GitHub Stats
 
 <p>
   <img width="98.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiibrag4&theme=radical&count_private=true" />
@@ -43,6 +43,8 @@
 </picture>
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
+
+##
 
 <div>
   <a href="mailto:guilhermebragariosdacosta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
