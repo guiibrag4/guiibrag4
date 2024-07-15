@@ -36,8 +36,6 @@
 
 ##
 
-![snake gif](https://github.com/guiibrag4/guiibrag4/blob/output/github-contribution-grid-snake-dark.svg)
-
 <div>
   <a href = "mailto:guilhermebragariosdacosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div>
