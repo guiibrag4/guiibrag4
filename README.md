@@ -98,7 +98,7 @@
 <br>
 
 <div style="text-align: justify; color: #FFD700;">
-  <i style="color #FFD700;">"Para o homem não existe nada melhor do que comer, beber e se alegrar no trabalho que realiza. Contudo, compreendi que mesmo estes prazeres só podem ser concedidos pelas mãos de Deus." Eclesiastes 2:24</i>
+  <i style="color #FFD700;">" There is nothing better for a person than that he should eat and drink and find enjoyment[a] in his toil. This also, I saw, is from the hand of God" Ecclesiastes 2:24</i>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE8019&height=120&section=footer"/>
