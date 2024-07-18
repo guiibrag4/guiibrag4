@@ -41,7 +41,7 @@
 <hr>
 
 <p>
-  <img style="border: 5px solid red; "width="99.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiibrag4&theme=gruvbox" />
+  <img width=99.5%; src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiibrag4&theme=gruvbox" />
 </p>
 
 <div  align="center" style="margin-bottom:100px">
@@ -61,21 +61,34 @@
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-###
-
-<div align: center;">
-  <img alt="Guii-C" height="30" width="40" style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">   
-  <img alt="Guii-Java" height="30" width="40" style="display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">  
-  <img alt="Guii-Postgree" height="30" width="40" style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img alt="Guii-Html5" height="30" width="40" style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img alt="Guii-Css3" height="30" width="40" style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img alt="Guii-JavaScripto" height="30" width="40" style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img alt="Guii-Bootstrap" height="30" width="40" style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"> 
-  <img alt="Guii-Figma" height="30" width="40" style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-</div>
-
-
 ##
+
+### Main skills:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=Windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+ 
+### Other Knowledge:
+![C](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=c&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![PostgresSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<hr>
 
 <div align="center">
   <a href="mailto:guilhermebragariosdacosta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -84,8 +97,9 @@
 
 <br>
 
-<i>"Para o homem não existe nada melhor do que comer, beber e se alegrar no trabalho que realiza. Contudo, compreendi que mesmo estes prazeres só podem ser concedidos pelas mãos de Deus." Eclesiastes 2:24<i>
-
+<div style="text-align: justify; color: #FFD700;">
+  <i style="color #FFD700;">"Para o homem não existe nada melhor do que comer, beber e se alegrar no trabalho que realiza. Contudo, compreendi que mesmo estes prazeres só podem ser concedidos pelas mãos de Deus." Eclesiastes 2:24</i>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE8019&height=120&section=footer"/>
 
