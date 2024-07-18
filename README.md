@@ -29,9 +29,9 @@
   <img style="border: 5px solid red; "width="99.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiibrag4&theme=radical" />
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img style="height: 230px;" src="https://github-readme-streak-stats.herokuapp.com?user=guiibrag4&theme=radical&mode=weekly" />
-  <img style="height: 230px;" src="https://github-readme-stats-sage-nine-86.vercel.app/api/top-langs/?username=guiibrag4&show_icons=true&theme=radical&layout=compact" />
+<div  align="center" style="margin-bottom:100px">
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=guiibrag4&theme=radical&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats-sage-nine-86.vercel.app/api/top-langs/?username=guiibrag4&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 
