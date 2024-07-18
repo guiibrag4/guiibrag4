@@ -26,13 +26,14 @@
 # 📈 GitHub Stats
 
 <p>
-  <img width="98.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiibrag4&theme=radical&count_private=true" />
+  <img style="border: 5px solid red; "width="99.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiibrag4&theme=radical" />
 </p>
 
-<p>
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiibrag4&theme=radical&count_private=true" />
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiibrag4&theme=radical&count_private=true" />
-</p>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img style="height: 230px;" src="https://github-readme-streak-stats.herokuapp.com?user=guiibrag4&theme=radical&mode=weekly" />
+  <img style="height: 230px;" src="https://github-readme-stats-sage-nine-86.vercel.app/api/top-langs/?username=guiibrag4&show_icons=true&theme=radical&layout=compact" />
+</div>
+
 
 </p>
 
