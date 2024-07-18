@@ -1,4 +1,12 @@
+<!-- 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=141321&height=120&section=header"/> 
+
+<p style="display: flex;" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guiibrag4&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+-->
 
 ## **Eaii! Eu sou o _Guilherme Braga_, bem-vindo!!**
 
@@ -32,10 +40,7 @@
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=guiibrag4&theme=radical&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-sage-nine-86.vercel.app/api/top-langs/?username=guiibrag4&show_icons=true&theme=radical&layout=compact" />
-</div>
-
-
-</p>
+</div>  
 
 <br/>
 
@@ -48,6 +53,11 @@
 </picture>
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{guiibrag4}/count.svg" /></p> 
+<br></div>
 
 ##
 
