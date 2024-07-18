@@ -29,9 +29,11 @@
   <img width="98.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiibrag4&theme=radical&count_private=true" />
 </p>
 
-<p margin="-50px">
+<p>
     <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiibrag4&theme=radical&count_private=true" />
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiibrag4&theme=radical" />
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiibrag4&theme=radical&count_private=true" />
+</p>
+
 </p>
 
 <br/>
