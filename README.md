@@ -1,10 +1,18 @@
 <!-- 
 
+### Detalhezin de header
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=141321&height=120&section=header"/> 
 
+### troféis do github
 <p style="display: flex;" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=guiibrag4&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+### visitantes na conta
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{guiibrag4}/count.svg" /></p> 
+<br></div>
 
 -->
 
@@ -53,11 +61,6 @@
 </picture>
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
-
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{guiibrag4}/count.svg" /></p> 
-<br></div>
 
 ##
 
