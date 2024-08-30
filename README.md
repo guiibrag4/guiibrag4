@@ -36,7 +36,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE8019&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE8019&size=35&center=true&vCenter=true&width=1000&lines=Hello!!,+My+name+is+Guilherme+Braga+Rios+da+Costa;I'm+21+years+old;I+study+information+systems+at+UniEuro;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE8019&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+My+name+is+Guilherme+Braga+Rios+da+Costa;I'm+21+years+old;I+study+information+systems+at+UniEuro;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <hr>
 
